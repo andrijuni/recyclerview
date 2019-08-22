@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">My Library</string>
+    <string name="library_name">Nama Perpustakaan</string>
+    <string name="location">Lokasi</string>
+    <string name="entry">Entry</string>
+    <string name="about">About</string>
+
+    <string-array name="data_name">
+        <item>Perpustakaan Nasional Republik Indonesia</item>
+        <item>Perpustakaan Umum Provinsi DKI Jakarta</item>
+        <item>Perpustakaan Kemendikbud</item>
+        <item>Goethe-Institut Jakarta</item>
+        <item>Freedom Institute</item>
+        <item>The Reading Room</item>
+        <item>The Japan Foundation</item>
+        <item>Comic Cafe</item>
+        <item>Daniel S. Lev Law Library</item>
+        <item>Perpustakaan Rabbit Hole</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Jl. Medan Merdeka Selatan No. 11 dan Jl. Salemba Raya No. 28A</item>
+        <item>Gedung Nyi Ageng Serang Lantai 7-8, I.H.R. Rasuna Said Kav. C-22, Setiabudi, RT.2/RW.5, Karet Kuningan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940</item>
+        <item>Kementerian Pendidikan dan Kebudayaan Gedung A Lantai 1 Jl. Jenderal Sudirman RT.1/RW.3 Gelora, RT.1/RW.3, Senayan, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270</item>
+        <item>Jl. Dr. GSSJ Ratulangi No.9-15, RT.2/RW.3, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350</item>
+        <item>Wisma Bakrie, Jl. H. R. Rasuna Said No.Kav, B-1, RT.11/RW.2, Kuningan, Karet Kuningan, Menteng, South Jakarta City, Jakarta 12920</item>
+        <item>Jl. Kemang Timur No.57 A-B, RT.6/RW.3, Bangka, Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730</item>
+        <item>Gedung Summitmas 2 1st - 2nd Floor, Jl. Jend. Sudirman Kavling 61-62, RT.5/RW.3, Senayan, Kebayoran Baru, South Jakarta City, Jakarta 12190</item>
+        <item>Jl. Tebet Raya No.53D, RT.3/RW.2, Tebet Tim., Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12810</item>
+        <item>Puri Imperium Office Plaza UG-16, JL. Kuningan Madya, Kav. 5-6, 12980, RT.6/RW.2, Guntur, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12980</item>
+        <item>Jl. Casablanca No.88, Bangka, Kec. Bekasi Bar., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12870</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/perpusnas</item>
+        <item>@drawable/perpusjak</item>
+        <item>@drawable/kemendikbud</item>
+        <item>@drawable/ghoeteinstitute</item>
+        <item>@drawable/freedominstitute</item>
+        <item>@drawable/readingroom</item>
+        <item>@drawable/japanfoundation</item>
+        <item>@drawable/comiccafe</item>
+        <item>@drawable/denislaw</item>
+        <item>@drawable/rabbithole</item>
+    </array>
+</resources>
